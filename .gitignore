@@ -1,0 +1,14 @@
+# Mac OS
+.DS_Store
+
+# IntelliJ
+*.iml
+.idea
+
+# Analysis
+*.xlsx
+*.hprof
+heap-dumps
+
+# Maven
+target
